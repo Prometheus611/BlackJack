@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Blackjack.GUI/1.0.0": {
+        "runtime": {
+          "Blackjack.GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blackjack.GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

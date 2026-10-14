@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ConsoleApp3\\ConsoleApp3.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Blackjack.GUI\\Blackjack.GUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
